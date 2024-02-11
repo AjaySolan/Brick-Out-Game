@@ -1,4 +1,4 @@
-# Result-management-System
+#Brick-Out Game
 import pygame
 
 # initialize
